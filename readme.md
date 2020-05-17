@@ -30,3 +30,5 @@ In the wxploration, I found that there was no strong relationships between the d
 For the presentation, I focused on just the influence of the User type and station. I started by introducing the duration variable, followed by the Duration and User type relation, Then finished by showing The relation between the Duration and User type with start station. 
 There is no clear relation between the duration and other attributes. There is slightly higher trip duration when the User type is customer.
 The second and thierd graph will address that, There are some stations where the subscribers tend to have some above average rides longer than customers.
+
+Data used from from here: https://s3.amazonaws.com/baywheels-data/index.html

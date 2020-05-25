@@ -1,7 +1,7 @@
 # Ford GoBike System Data
 ## by Fawaz AlTuwaijri
 
-# Getting started
+## Getting started
 Make sure you use the "Udacity-env.txt" environment to avoid any errors.
 
 

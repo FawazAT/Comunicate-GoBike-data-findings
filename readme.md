@@ -1,6 +1,9 @@
 # Ford GoBike System Data
 ## by Fawaz AlTuwaijri
 
+# Getting started
+Make sure you use the "Udacity-env.txt" environment to avoid any errors.
+
 
 ## Dataset
 
@@ -19,7 +22,6 @@ The dataset has informations about Bay Wheels's trips. Which is a biking rental 
 * bike_id
 * user_type (“Subscriber” = Member or “Customer” = Casual)
 * rental_access_method
-
 
 ## Summary of Findings
 
